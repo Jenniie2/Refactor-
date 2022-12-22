@@ -52,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* a widley adpoted CSS naming practice is to use hero as the class name applied to a site's main banner */
 .hero {
     height: 800px;
     width: 100%;
@@ -72,6 +73,7 @@ p {
     margin-left: 25px;
 }
 
+/* content replaces an element with a generated value */
 .content {
     width: 75%;
     display: inline-block;
@@ -191,6 +193,7 @@ p {
     font-size: 36px;
 }
 
+/* it has mutiple fonts so in case that the broswer doesn't have the priority fonts it goes to the next */ 
 .footer {   
     padding: 30px;
     clear: both;
