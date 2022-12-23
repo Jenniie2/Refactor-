@@ -79,6 +79,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* benefit class starts */
 
 .benefits {
     margin-right: 20px;
@@ -138,7 +139,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* benefit class ends */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
