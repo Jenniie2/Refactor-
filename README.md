@@ -16,4 +16,5 @@ Things that you'll find:
  
  
  ![Here is a preview of the webpage](.\assets\images\web_capture_.jpeg)
-
+ 
+ ![image](assets/images/web_capture_.jpeg)
