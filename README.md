@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # One-Stop-Shop
 A marketing codebase that understands accessiblity standards using proper HTML Semantic elements, attributes descriptions were added to the images for screen readers, and comments were added to the CSS and HTML so we know that it has been refactored to meet accessibity standards. 
 
@@ -12,3 +13,8 @@ Things that you'll find:
   # Deployed Application
   The following link will navigate you to the deployed webside.
   https://jenniie2.github.io/one-stop-shop/  
+=======
+# Refactor-
+Refactor html and css 
+https://github.com/Jenniie2/one-stop-shop/issues/1#issue-1507239549
+>>>>>>> cf474295a6fa68918b608d6fe6279668a81ce6d0
